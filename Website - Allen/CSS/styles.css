@@ -1,0 +1,64 @@
+.face {
+  padding-top: 20px;
+}
+
+body {
+  background-color: #def4f0;
+  margin: 0;
+  color: #393e46;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+hr {
+
+  border: dotted #e5e5e5 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 15px auto;
+
+}
+
+h1 {
+  color: #1f4068;
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto 0 auto;
+  padding-bottom: 0;
+  font-size: 3em;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+h3 {
+  color: #1f4068;
+  padding-top: 15px;
+}
+
+p {
+  padding-top: 10px;
+}
+
+
+.educ-title {
+  width: 9%;
+  margin: 0 auto 0;
+}
+
+.work {
+  width: 11%;
+  margin: 0 auto 0;
+}
+
+.icon {
+  float: left;
+  margin-right: 0;
+}
+
+.instrument {
+    width: 8%;
+    margin: 0 auto 0;
+}
